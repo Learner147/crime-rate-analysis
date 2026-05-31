@@ -1,3 +1,4 @@
+# Crime Rate Analysis
 ## Project Overview
 
 This project analyzes crime rate data using Python and data science techniques. The study includes data cleaning, exploratory data analysis (EDA), statistical testing, machine learning models, and clustering methods to uncover crime trends and the influence of socio-economic factors.
